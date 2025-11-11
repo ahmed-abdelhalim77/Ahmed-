@@ -1,102 +1,87 @@
-<div align="center" width="50">
+<!-- 👋 Simple Hello Section -->
+<div align="center" width="100%" style="position: relative; border-radius: 20px; background-color:#2a5298; padding: 20px;">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
+  <h1 style="color:white; text-shadow: 2px 2px 5px #000;">Hello >Coders/ 👋</h1>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"  
+       alt="Workspace" width="50%" style="border-radius:20px; box-shadow:0 0 15px #000;"/><br>  
 
 </div>
 
+---
+
+<details>
+<p><strong> <summary> 🎧 Busy coding & Vibing to: </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/ahmedabdelhalim)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-abdelhalim77&style=flat&color=orange)
+![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmed-abdelhalim77&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+---
+
+## 🧠 About Me
+🎓 I'm an **Information Technology student at Borg Al Arab Technological University**, specializing in **Software Development**.  
+💻 I enjoy creating projects that connect **software and hardware**.  
+🌱 Currently exploring **Machine Learning**, **AI**, and **Cloud Computing**.  
+🤝 Interested in **learning and teamwork**.  
+📚 Currently learning: **Data Structures & Algorithms, Object-Oriented Programming, Web Development, Mobile App Development, Databases, Software Engineering Principles**.  
+🎓 Completed: **Arduino course**.  
+
+---
+
+## 💻 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+---
+
+## ⚡ Projects Overview
+<div align="center">
+  <img src="https://img.shields.io/badge/Open-5-brightgreen?style=for-the-badge" alt="Open Projects"/>
+  <img src="https://img.shields.io/badge/Closed-3-red?style=for-the-badge" alt="Closed Projects"/>
+  <img src="https://img.shields.io/badge/Arduino-%F0%9F%9B%A0-blue?style=for-the-badge" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Flutter-%F0%9F%94%8B-blue?style=for-the-badge" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-yellow?style=for-the-badge" alt="Python"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelhalim-2a1826394" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahmedxvx818@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="40" height="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahmed_abdelhalim_7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1D1CZf5pxB/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" width="40" height="40" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201203543800" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ahmed-abdelhalim77" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
