@@ -1,7 +1,7 @@
 <!-- 👋 Simple Hello Section -->
 <div align="center" width="100%" style="position: relative; border-radius: 20px; background-color:#2a5298; padding: 20px;">
 
-  <h1 style="color:white; text-shadow: 2px 2px 5px #000;">Hello >Coders\n I'm Ahmed/ 👋</h1>
+  <h1 style="color:white; text-shadow: 2px 2px 5px #000;">Hello >Coders<I'm Ahmed Abdelhalim>/ 👋</h1>
   
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"  
        alt="Workspace" width="50%" style="border-radius:20px; box-shadow:0 0 15px #000;"/><br>  
