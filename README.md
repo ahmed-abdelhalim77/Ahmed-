@@ -10,10 +10,6 @@
 
 ---
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to: </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/ahmedabdelhalim)
 
 </details>
 
@@ -37,26 +33,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
 ---
 
-## ⚡ Projects Overview
-<div align="center">
-  <img src="https://img.shields.io/badge/Open-5-brightgreen?style=for-the-badge" alt="Open Projects"/>
-  <img src="https://img.shields.io/badge/Closed-3-red?style=for-the-badge" alt="Closed Projects"/>
-  <img src="https://img.shields.io/badge/Arduino-%F0%9F%9B%A0-blue?style=for-the-badge" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Flutter-%F0%9F%94%8B-blue?style=for-the-badge" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Python-%F0%9F%90%8D-yellow?style=for-the-badge" alt="Python"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -67,18 +50,6 @@
   &nbsp;&nbsp;
   <a href="mailto:ahmedxvx818@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="40" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ahmed_abdelhalim_7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1D1CZf5pxB/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" width="40" height="40" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/201203543800" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ahmed-abdelhalim77" target="_blank">
